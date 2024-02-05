@@ -1,0 +1,10 @@
+# Basic Git Commands
+
+$ git init		// Innitialize Local Repository		ມາກໄວ້ວ່າເປັນ Repository ທີສາມາດ backup file ໄດ້ 
+$ git add .		// Add File to Repository		ສາມາດ add ທຸກໆ file ພາຍໄຕ້ Folder ນີ້ໄດ້
+$ git status		// Check Status og Working Tree		check ສະຖານະ
+$ git commit -m "msg"	// Commit Change to Index		ການ save file
+$ git checkout		// roll back				ດືງຄາກັບມາ
+$ git push		// Push to Remote Repoditory		ລີ້ງໄປທີ່ Server Github
+$ git pull		// Pull Lastest from Remote Repository
+$ git clone		// Clone Latest from Remote Repository
